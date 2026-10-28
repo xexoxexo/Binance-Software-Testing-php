@@ -779,7 +779,7 @@ Proyek ini menyediakan implementasi lengkap untuk:
 
 Endpoint yang digunakan bersifat publik dan tidak memerlukan API key. Proyek ini prototipe, monitoring, dan pengujian integrasi data pasar.
 
----
+----
 
 ## Referensi
 
