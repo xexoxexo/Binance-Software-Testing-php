@@ -777,7 +777,7 @@ Proyek ini menyediakan implementasi lengkap untuk:
 - Melakukan white-box testing terhadap kode PHP.
 - Mengintegrasikan pengujian ke pipeline CI/CD.
 
-Endpoint yang digunakan bersifat publik dan tidak memerlukan API key. Proyek ini cocok untuk pembelajaran, prototipe, monitoring, dan pengujian integrasi data pasar.
+Endpoint yang digunakan bersifat publik dan tidak memerlukan API key. Proyek ini prototipe, monitoring, dan pengujian integrasi data pasar.
 
 ---
 
